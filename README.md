@@ -1,1 +1,3 @@
-# WE4B
+# WE4B -- Projet Angular --
+
+
